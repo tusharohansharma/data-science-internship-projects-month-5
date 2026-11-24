@@ -1,0 +1,12 @@
+Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+Raw and Generated Datasets
+data/raw/*.csv
+data/processed/*.csv
+
+Serialized Models
+models/*.pkl
+models/*.joblib
